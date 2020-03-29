@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6b1d175-7c3b-4684-bd89-a9d643978087" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="96" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZkhxU7k2m5LZcxmY2s4D4V76RR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="shop.parts" />
+      <recent name="shop.instruments" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="shop.behaviours" />
+      <recent name="shop.instruments.behaviours" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SheetMusicTest">
+    <configuration name="GuitarStringsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ray's_music_exchange" />
+      <option name="PACKAGE_NAME" value="shop.parts" />
+      <option name="MAIN_CLASS_NAME" value="shop.parts.GuitarStringsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SheetMusicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ray's_music_exchange" />
+      <option name="PACKAGE_NAME" value="shop.parts" />
+      <option name="MAIN_CLASS_NAME" value="shop.parts.SheetMusicTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ray's_music_exchange" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrumpetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ray's_music_exchange" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="instrument.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="instrument" />
+      <option name="MAIN_CLASS_NAME" value="instrument.TrumpetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="instrument in ray's_music_exchange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ray's_music_exchange" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="instrument.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="instrument" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SheetMusicTest" />
+        <item itemvalue="JUnit.GuitarStringsTest" />
+        <item itemvalue="JUnit.instrument in ray's_music_exchange" />
+        <item itemvalue="JUnit.ShopTest" />
+        <item itemvalue="JUnit.TrumpetTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6b1d175-7c3b-4684-bd89-a9d643978087" name="Default Changelist" comment="" />
+      <created>1585389245322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585389245322</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="39" y="104" key="#Project_Structure" timestamp="1585389271376">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="39" y="104" key="#Project_Structure/0.23.1440.811@0.23.1440.811" timestamp="1585389271376" />
+    <state x="252" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1585477298556">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="252" y="160" key="#com.intellij.ide.util.MemberChooser/0.23.1440.811@0.23.1440.811" timestamp="1585406006537" />
+    <state x="252" y="161" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812@0.23.1440.812" timestamp="1585418795151" />
+    <state x="252" y="161" key="#com.intellij.ide.util.MemberChooser/0.23.1440.814@0.23.1440.814" timestamp="1585420351459" />
+    <state x="252" y="161" key="#com.intellij.ide.util.MemberChooser/0.23.1440.816@0.23.1440.816" timestamp="1585419549931" />
+    <state x="252" y="162" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821@0.23.1440.821" timestamp="1585477298556" />
+    <state x="177" y="223" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585408408995">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="177" y="222" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.811@0.23.1440.811" timestamp="1585405378114" />
+    <state x="177" y="223" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.816@0.23.1440.816" timestamp="1585408408995" />
+    <state x="0" y="369" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585503196936">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="0" y="367" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.811@0.23.1440.811" timestamp="1585404842377" />
+    <state x="0" y="368" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.814@0.23.1440.814" timestamp="1585401707548" />
+    <state x="0" y="369" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.816@0.23.1440.816" timestamp="1585503196936" />
+    <state x="203" y="302" width="471" height="313" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585405577085">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="203" y="302" width="471" height="313" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.811@0.23.1440.811" timestamp="1585405577085" />
+    <state x="203" y="305" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1585503200620">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="203" y="305" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.816@0.23.1440.816" timestamp="1585503200620" />
+    <state width="836" height="152" key="GridCell.Tab.0.bottom" timestamp="1585503135556">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="836" height="152" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1585503135556" />
+    <state width="1009" height="152" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1585491079182" />
+    <state width="836" height="152" key="GridCell.Tab.0.center" timestamp="1585503135555">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="836" height="152" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1585503135555" />
+    <state width="1009" height="152" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1585491079181" />
+    <state width="836" height="152" key="GridCell.Tab.0.left" timestamp="1585503135554">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="836" height="152" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1585503135554" />
+    <state width="1009" height="152" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1585491079181" />
+    <state width="836" height="152" key="GridCell.Tab.0.right" timestamp="1585503135555">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="836" height="152" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1585503135555" />
+    <state width="1009" height="152" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1585491079181" />
+    <state x="185" y="106" key="Maven.ArtifactSearchDialog" timestamp="1585406233347">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="0" y="100" key="Maven.ArtifactSearchDialog/0.23.1440.811@0.23.1440.811" timestamp="1585405412531" />
+    <state x="185" y="106" key="Maven.ArtifactSearchDialog/0.23.1440.812@0.23.1440.812" timestamp="1585406233347" />
+    <state x="218" y="174" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585479963031">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="218" y="173" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.811@0.23.1440.811" timestamp="1585404639562" />
+    <state x="218" y="174" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.816@0.23.1440.816" timestamp="1585479963031" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ray_s_music_exchange$GuitarTest.ic" NAME="GuitarTest Coverage Results" MODIFIED="1585481612368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>instrument.*</FILTER>
+    </SUITE>
+  </component>
+</project>
